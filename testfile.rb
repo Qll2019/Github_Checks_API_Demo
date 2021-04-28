@@ -16,5 +16,5 @@ class Octocat
   end
 end
 # test
-m = Octocat.new("Mona", "cat", "octopus")
+m = Octocat.new('Mona', 'cat', 'octopus')
 m.display
