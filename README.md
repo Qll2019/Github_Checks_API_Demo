@@ -1,1 +1,1 @@
-# Github_Checks_API_Demo
+# Github Checks API Demo
