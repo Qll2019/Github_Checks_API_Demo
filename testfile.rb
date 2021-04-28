@@ -20,5 +20,5 @@ m = Octocat.new('Mona', 'cat', 'octopus')
 m.display
 
 # Added feature4
-m = Octocat.new("Coder", "cat", "octopus")
+m = Octocat.new('Coder', 'cat', 'octopus')
 m.display
